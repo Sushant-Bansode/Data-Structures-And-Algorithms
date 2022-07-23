@@ -1,0 +1,24 @@
+01. Array insert at end
+02. Array insert at index
+03. Mean And Median of Array
+04. Who has the majority?
+05. Max and Second Max
+06. Strongest Neighbour
+07. Reverse array in groups
+08. Rotate Array
+09. Minimum adjacent difference in a circular array
+10. Maximum occured integer
+11. Wave Array
+12. Frequencies of Limited Range Array Elements
+13. Equilibrium Point
+14. Leaders in an array
+15. Smallest Positive missing number
+16. Rearrange Array Alternately
+17. Rearrange an array with O(1) extra space
+18. Maximum Index
+19. Trapping Rain Water
+20. Stock buy and sell
+21. Check if array is sorted and rotated
+22. Kadane's Algorithm
+23. Longest Subarray Of Evens And Odds
+24. Max Circular Subarray Sum

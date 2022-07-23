@@ -1,0 +1,6 @@
+01. Activity Selection
+02. Huffman Decoding
+03. N meetings in one room
+04. Fractional Knapsack
+05. Largest number with given sum
+06. Job Sequencing Problem

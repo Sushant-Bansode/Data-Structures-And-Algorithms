@@ -1,0 +1,21 @@
+01. Bubble Sort
+02. Insertion Sort
+03. Quick Sort
+04. Binary Array Sorting
+05. Count Inversions
+06. Union of Two Sorted Arrays
+07. Intersection of two sorted arrays
+08. Count the number of possible triangles
+09. Find triplets with zero sum
+10. Three way partitioning
+11. Counting Sort
+12. Closet 0s 1s and 2s
+13. Sort by Absolute Difference
+14. Triplet Sum in Array
+15. Minimum Difference in an Array
+16. Kth smallest element
+17. Number of pairs
+18. Merge Without Extra Space
+19. Merge three sorted arrays
+20. Closer to sort
+21. Minimum Platforms

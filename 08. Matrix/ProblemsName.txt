@@ -1,0 +1,15 @@
+01. Adding two matrices
+02. Sum of upper and lower triangles
+03. Multiply the matrices
+04. Print Matrix in snake Pattern
+05. Transpose of Matrix
+06. Rotate by 90 degree
+07. Determinant of a Matrix
+08. Boundary traversal of matrix
+09. Exchange matrix columns
+10. Spirally traversing a matrix
+11. Reversing the columns of a Matrix
+12. Interchanging the rows of a Matrix
+13. Search in a row-column sorted Matrix
+14. Boolean Matrix
+15. Make Matrix Beautiful

@@ -1,0 +1,21 @@
+01. Separate chaining in Hashing
+02. Linear Probing in Hashing
+03. Quadratic Probing in Hashing
+04. Count Non-Repeated Elements
+05. Print Non-Repeated Elements
+06. First Repeating Element
+07. Intersection of two arrays
+08. Union of two arrays
+09. Hashing for pair - 1
+10. Hashing for pair - 2
+11. Check if two arrays are equal or not
+12. Numbers containing 1, 2 and 3
+13. Subarray with 0 sum
+14. Winner of an election
+15. Subarray range with given sum
+16. Positive Negative Pair
+17. Zero Sum Subarrays
+18. Subarrays with equal 1s and 0s
+19. Sort an array according to the other
+20. Sorting Elements of an Array by Frequency
+21. Longest consecutive subsequence

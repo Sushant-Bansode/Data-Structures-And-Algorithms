@@ -1,0 +1,26 @@
+01. Naive Pattern Search
+02. Distinct Pattern Search
+03. Binary String
+04. Implement strstr
+05. Anagram
+06. Check if string is rotated by two places
+07. Check if strings are rotations of each other or not
+08. Isomorphic Strings
+09. Check if a string is Isogram or not
+10. Keypad typing
+11. Repeating Character - First Appearance Leftmost
+12. Non Repeating Character
+13. Maximum Occuring Character
+14. Remove common characters and concatenate
+15. Reverse words in a given string
+16. Sum of numbers in string
+17. Pangram Checking
+18. Minimum indexed character
+19. Smallest window in a string containing all the characters of another string
+20. Nth number made of prime digits
+21. The Modified String
+22. Case-specific Sorting of Strings
+23. Lexicographic Rank Of A String
+24. Rabin Karp - Pattern Searching
+25. Pattern Search KMP
+26. Check if a String is Subsequence of Other

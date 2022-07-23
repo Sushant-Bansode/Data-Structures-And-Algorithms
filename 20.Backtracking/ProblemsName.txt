@@ -1,0 +1,7 @@
+01. Largest number in K swaps
+02. Rat Maze With Multiple Jumps
+03. Black and White
+04. Combination Sum
+05. Unique Subsets
+06. M-Coloring Problem
+07. Solve the Sudoku

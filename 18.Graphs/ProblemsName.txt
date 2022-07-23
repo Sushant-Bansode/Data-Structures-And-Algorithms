@@ -1,0 +1,23 @@
+01. Print adjacency list
+02. BFS of graph
+03. DFS of Graph
+04. Find the number of islands
+05. Detect cycle in an undirected graph
+06. Detect cycle in a directed graph
+07. Find whether path exist
+08. Topological sort
+09. Level of Nodes
+10. Possible paths between 2 vertices
+11. X Total Shapes
+12. Distance of nearest cell having 1
+13. Mother Vertex
+14. Unit Area of largest region of 1's
+15. Rotten Oranges
+16. Minimum Swaps to Sort
+17. Steps by Knight
+18. Implementing Dijkstra Algorithm
+19. Minimum Spanning Tree
+20. Strongly Connected Components (Kosaraju's Algo)
+21. Minimum Cost Path
+22. Bridge Edge in Graph
+23. Strongly connected component (Tarjans's Algo)

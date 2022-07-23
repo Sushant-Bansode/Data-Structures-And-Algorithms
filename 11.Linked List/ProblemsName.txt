@@ -1,0 +1,27 @@
+01. Count nodes of linked list
+02. Linked List Insertion
+03. Doubly linked list Insertion at given position
+04. Insert in Middle of Linked List
+05. Identical Linked Lists
+06. Delete without head pointer
+07. Remove duplicate element from sorted Linked List
+08. Remove duplicates from an unsorted linked list
+09. Merge two sorted linked lists
+10. Nth node from end of linked list
+11. Swap Kth nodes from ends
+12. Reverse a linked list
+13. Detect Loop in linked list
+14. Find length of Loop
+15. Remove loop in Linked List
+16. Rotate a Linked List
+17. Add two numbers represented by linked lists
+18. Pairwise swap of nodes in LinkeList
+19. Check if Linked List is Palindrome
+20. Merge Sort for Linked List
+21. Given a linked list of 0s, 1s and 2s, sort it.
+22. Merge Sort on Doubly Linked List
+23. Merge K sorted linked lists
+24. Intersection Point in Y Shapped Linked Lists
+25. Clone a linked list with next and random pointer
+26. Add two numbers represented by Linked List
+27. LRU Cache

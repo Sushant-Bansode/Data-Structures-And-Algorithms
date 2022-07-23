@@ -1,0 +1,6 @@
+01. Trie _ (Insert and Search)
+02. Search Query for Strings
+03. Renaming Cities
+04. Camel Case
+05. Contiguous Elements XOR
+06. Most frequent word in an array of strings

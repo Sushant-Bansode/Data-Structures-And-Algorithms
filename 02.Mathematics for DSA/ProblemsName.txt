@@ -1,0 +1,11 @@
+01. Absolute Value
+02. Convert Celsius To Fahrenheit
+03. Quadratic Equation Roots
+04. Factorial Of Number
+05. Digits In Factorial
+06. GP Term
+07. Primality Test
+08. Exactly 3 Divisors
+09. Addition Under Modulo
+10. Multiplication Under Modulo
+11. Modular Multiplicative Inverse

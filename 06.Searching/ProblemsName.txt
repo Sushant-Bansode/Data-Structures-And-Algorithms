@@ -1,0 +1,18 @@
+01. Search an Element in an array
+02. Searching an element in a sorted array
+03. Count 1's in binary array
+04. Square root of a number
+05. Majority Element
+06. Left Index
+07. Peak element
+08. Floor in a Sorted Array
+09. Minimum Number in a sorted rotated array
+10. Two Repeated Elements
+11. Roof Top
+12. Maximum Water Between Two Buildings
+13. Smallest Positive missing number
+14. Count only Repeated
+15. Count More than n-k Occurences
+16. Allocate minimum number of pages
+17. Subarray with given sum
+18. Median of Two sorted arrays

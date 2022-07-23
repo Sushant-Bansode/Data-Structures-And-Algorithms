@@ -1,0 +1,6 @@
+01. Deque Implementations
+02. Maximum of all subarrays of size k
+03. Dequeue Traversal
+04. Rotate Deque By K
+05. Insertion in deque
+06. Deque deletion

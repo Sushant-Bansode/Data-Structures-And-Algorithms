@@ -1,0 +1,12 @@
+01. Find first set bit
+02. Rightmost different bit
+03. Check whether K-th bit is set or not
+04. Count total set bits
+05. Bit Difference
+06. Number is sparse or not
+07. Longest Consecutive 1's
+08. Binary To Gray Code equivalent
+09. Gray to Binary equivalent
+10. Power of 2
+11. Swap all odd and even bits
+12. Maximum AND Value

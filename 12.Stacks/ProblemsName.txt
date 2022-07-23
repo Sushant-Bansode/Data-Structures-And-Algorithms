@@ -1,0 +1,16 @@
+01. Implement stack using array
+02. Implement Stack using Linked List
+03. Operations on Stack
+04. Removing consecutive duplicates
+05. Removing consecutive duplicates - 2
+06. Parenthesis Checker
+07. Implement two stacks in an array
+08. Get min at pop
+09. Delete middle element of a stack
+10. Infix to Postfix
+11. Evaluation of Postfix Expression
+12. Stock span problem
+13. Next Greater Element
+14. Maximum Rectangular Area in a Histogram
+15. The Celebrity Problem
+16. Maximum of minimum for every window size
